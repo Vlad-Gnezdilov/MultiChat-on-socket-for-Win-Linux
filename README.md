@@ -1,3 +1,7 @@
+
+This is a chat for users on sockets for both Windows and Linux. 
+It involves the creation of 1 server in the local network and the subsequent connection of users.
+Instructions for starting the chat are below.
 To start the server:
   g++ Server1.cpp -o Server1 -lws2_32
   ./Server1
